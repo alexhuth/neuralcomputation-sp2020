@@ -1,8 +1,10 @@
+# PLEASE NOTE ROOM CHANGE: BMC 4.202
+
 # Syllabus
 
 * **Course**: CS 395 T (50800) Neural Computation (aka Neuroscience for Computer Scientists)
 * **Semester**: Spring 2020
-* **Location**: GDC 5.304
+* **Location**: BMC 4.212
 * **Time**: TTH 3:30PM - 5:00PM
 
 ### Instructor Contact Information
