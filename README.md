@@ -1,4 +1,5 @@
-# PLEASE NOTE ROOM CHANGE: BMC 4.212
+# PLEASE NOTE OFFICE HOURS CHANGES
+# ALSO: NO OFFICE HOURS TUE MAR 3
 
 # Syllabus
 
@@ -9,7 +10,7 @@
 
 ### Instructor Contact Information
 * Alexander Huth
-* office hours:  Mon 10:30AM - 12:00PM, Tue 10:30AM - 12:00PM
+* office hours:  Tue 10:30AM - 12:00PM, Wed 10:30AM - 12:00PM
 * office: NHB 3.134
 * email: huth@cs.utexas.edu
 
