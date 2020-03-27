@@ -1,3 +1,8 @@
+## UPDATE for 2nd half of semester
+We are going to still be holding lectures.  However, they will be online with live streaming during the lecture (Zoom). Lecture recordings will be posted on Canvas after the lecture for students who could not participate live. Live office hours will be offered at the usual office hour times listed below. Please see the [Canvas course website](https://utexas.instructure.com/courses/1276532) for more information, Zoom links for lectures, and recorded lectures.
+
+Since lectures will be recorded, it is important to note that class recordings are confidential to the class and only for educational purposes, that they should not be shared outside the class in any form, and that any violation of this will be subject to Student Misconduct proceedings.
+
 # Syllabus
 
 * **Course**: CS 395 T (50800) Neural Computation (aka Neuroscience for Computer Scientists)
