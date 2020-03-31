@@ -1,17 +1,19 @@
-# PLEASE NOTE OFFICE HOURS CHANGES
-# LATE BREAKING CHANGE: NO OFFICE HOURS _TUE MARCH 10_
+## UPDATE for 2nd half of semester
+We are going to still be holding lectures.  However, they will be online with live streaming during the lecture (Zoom). Lecture recordings will be posted on Canvas after the lecture for students who could not participate live. Live office hours will be offered at the usual office hour times listed below. Please see the [Canvas course website](https://utexas.instructure.com/courses/1276532) for more information, Zoom links for lectures, and recorded lectures.
+
+Since lectures will be recorded, it is important to note that class recordings are confidential to the class and only for educational purposes, that they should not be shared outside the class in any form, and that any violation of this will be subject to Student Misconduct proceedings.
 
 # Syllabus
 
 * **Course**: CS 395 T (50800) Neural Computation (aka Neuroscience for Computer Scientists)
 * **Semester**: Spring 2020
-* **Location**: BMC 4.212
+* **Location**: Zoom!
 * **Time**: TTH 3:30PM - 5:00PM
 
 ### Instructor Contact Information
 * Alexander Huth
 * office hours:  Tue 10:30AM - 12:00PM, Wed 10:30AM - 12:00PM
-* office: NHB 3.134
+* office: ZOOM!
 * email: huth@cs.utexas.edu
 
 ## Course Description
@@ -61,7 +63,7 @@ There are several components to the class grade.
 
 * Problem sets (40%): There will be 4 problem set assignments. Each assignment is worth 10% of your course grade.
 
-* Class participation (20%): Showing up for class, demonstrating preparedness (i.e., doing the readings), and contributing to class discussions. Attendance is required since there will be many in-class discussions.
+* Class participation (20%): Virtual attendance of live lecture streams is not required, but encouraged if possible. Participation in Canvas-based discussions is encouraged!
 
 Grading scale for problem sets: problem sets will be returned with feedback less than 2 weeks after the due date.
 
